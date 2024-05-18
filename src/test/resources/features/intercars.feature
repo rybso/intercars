@@ -15,5 +15,5 @@ Funkcja: : Intercars
 
     Przykłady:
       | marka | model    | typ     | kod             |
-#      | AUDI  | A3 (8P1) | 1.6 FSI | BAG, BLF, BLP   |
+      | AUDI  | A3 (8P1) | 1.6 FSI | BAG, BLF, BLP   |
       | BMW   | 3 (E46)  | 318 d   | M47 D20 (204D1) |
